@@ -22,7 +22,7 @@ class TestBusinessSearch < Test::Unit::TestCase
   end
   
   def setup
-    @search = DealMappr::BusinessSearch.new
+    @search = DealMappr::Search::Businesses.new
   end
   
 end
