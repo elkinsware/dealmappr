@@ -1,6 +1,6 @@
 = dealmappr
 
-Description goes here.
+DealMappr is a ruby wrapper, using HTTParty, around The DealMap API.
 
 == Note on Patches/Pull Requests
  
