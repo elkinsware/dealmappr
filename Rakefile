@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "dealmappr"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{ruby wrapper around The DealMap API}
+    gem.description = %Q{ruby wrapper around The DealMap API}
     gem.email = "dave@elkinsware.com"
     gem.homepage = "http://github.com/elkinsware/dealmappr"
     gem.authors = ["dave elkins"]
