@@ -1,10 +1,9 @@
-
+#
+# For more documentation on The DealMap API for Deal Searches look at: http://apiwiki.thedealmap.com/index.php/Search_Business_Listings
+#
 module DealMappr
   module Search
     
-    #
-    # For more documentation on The DealMap API for Deal Searches look at: http://apiwiki.thedealmap.com/index.php/Search_Business_Listings
-    #
     class Businesses < BaseSearch
       attr_accessor :l, :q, :d, :si, :ps, :a
       
